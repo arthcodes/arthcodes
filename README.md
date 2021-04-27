@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arthcodes
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning the math behind AI
+- 👀 I’m interested in Machine Learning, AI and Backend development
+- 🌱 I’m currently learning the math behind AI and backend development 
 - 💞️ I’m looking to collaborate on projects, you can contact me on my discord arth#1266
 
 
